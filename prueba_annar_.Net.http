@@ -1,0 +1,6 @@
+@prueba_annar_.Net_HostAddress = http://localhost:5257
+
+GET {{prueba_annar_.Net_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
